@@ -16,6 +16,6 @@ Mechvibes' download button is right there in their website, but to download Mech
 
 - First, head to the [releases](https://github.com/ghoomfrog/mechvibes-classic-pack/releases).
 - Download **mechvibes-classic-pack.zip**.
-- Extract it, you'll get two folders: **Classic Keyboard** and **Classic Mouse**.
+- Extract it. You'll get two folders: **Classic Keyboard** and **Classic Mouse**.
 - To install the keyboard sounds, move **Classic Keyboard** to **C:\Users\\*USERNAME*\mechvibes_custom** where ***USERNAME*** is your Windows username.
 - To install the mouse sounds, move **Classic Mouse** to **C:\Users\\*USERNAME*\mousevibes_custom** where ***USERNAME*** is your Windows username.
