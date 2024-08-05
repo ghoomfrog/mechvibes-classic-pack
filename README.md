@@ -8,7 +8,7 @@ I haven't included a scrollwheel click sound yet because I'm not sure which one 
 
 ## What you need
 
-You need [Mechvibes](https://mechvibes.com) (for keyboard sounds) or [Mechvibes++](https://github.com/PyroCalzone/MechVibesPlusPlus/releases) (for both keyboard and mouse sounds).
+You need [Mechvibes](https://mechvibes.com) (for keyboard sounds) or [Mechvibes++](https://github.com/PyroCalzone/MechVibesPlusPlus) (for both keyboard and mouse sounds).
 
 Mechvibes' download button is right there in their website, but to download Mechvibes++, go [here](https://github.com/PyroCalzone/MechVibesPlusPlus/releases) and click on **MechvibesPlusPlus.Setup.*X*.*Y*.*Z*.exe** where ***X***, ***Y*** and ***Z*** are numbers.
 
