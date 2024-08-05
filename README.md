@@ -4,8 +4,6 @@ This Mechvibes/Mechvibes++ pack includes the famous keyboard and mouse sounds po
 
 I'm sure you've heard them before. Listen to [this](https://tuna.voicemod.net/sound/6d4dfb84-7df3-4b58-8e0d-9d0540e1e85c) and [this](https://www.youtube.com/watch?v=h6_8SlZZwvQ).
 
-I haven't included a scrollwheel click sound yet because I'm not sure which one to include. If you have a suggestion, open an issue!
-
 ## What you need
 
 You need [Mechvibes](https://mechvibes.com) (for keyboard sounds) or [Mechvibes++](https://github.com/PyroCalzone/MechVibesPlusPlus) (for both keyboard and mouse sounds).
