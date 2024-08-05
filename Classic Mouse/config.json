@@ -1,0 +1,11 @@
+{
+	"id": "classic-mouse",
+	"name": "Classic Mouse",
+	"key_define_type": "multi",
+	"defines": {
+		"1": "down.wav",
+		"01": "up.wav",
+		"2": "down.wav",
+		"02": "up.wav"
+	}
+}
